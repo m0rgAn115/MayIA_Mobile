@@ -7,6 +7,9 @@ const MyWebView = () => {
     <WebView 
       source={{ uri: 'https://may-ia.vercel.app' }} 
       style={{ flex: 1, backgroundColor: 'red' }} 
+      mediaPlaybackRequiresUserAction={false} 
+      javaScriptEnabled={true}
+      allowsInlineMediaPlayback={true}
     />
   );
 };
