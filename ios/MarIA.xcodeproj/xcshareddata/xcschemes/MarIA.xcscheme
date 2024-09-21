@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "AwesomeProject3.app"
-               BlueprintName = "AwesomeProject3"
-               ReferencedContainer = "container:AwesomeProject3.xcodeproj">
+               BuildableName = "MarIA.app"
+               BlueprintName = "MarIA"
+               ReferencedContainer = "container:MarIA.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "AwesomeProject3Tests.xctest"
-               BlueprintName = "AwesomeProject3Tests"
-               ReferencedContainer = "container:AwesomeProject3.xcodeproj">
+               BuildableName = "MarIATests.xctest"
+               BlueprintName = "MarIATests"
+               ReferencedContainer = "container:MarIA.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AwesomeProject3.app"
-            BlueprintName = "AwesomeProject3"
-            ReferencedContainer = "container:AwesomeProject3.xcodeproj">
+            BuildableName = "MarIA.app"
+            BlueprintName = "MarIA"
+            ReferencedContainer = "container:MarIA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "AwesomeProject3.app"
-            BlueprintName = "AwesomeProject3"
-            ReferencedContainer = "container:AwesomeProject3.xcodeproj">
+            BuildableName = "MarIA.app"
+            BlueprintName = "MarIA"
+            ReferencedContainer = "container:MarIA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
